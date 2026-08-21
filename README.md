@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/31316127/README.md)
 # AutoMarketUZ Test Site
 
 Бесплатная статическая версия сайта для тестового запуска.
@@ -7,6 +8,15 @@ Landing page для AutoMarketUZ и Telegram Mini App.
 
 ## Как открыть локально
 Можно просто открыть `index.html` в браузере.
+# AutoMarketUZ Site V4
+
+Полированная тестовая версия сайта для Узбекистана.
+
+Ссылки:
+- Mini App: https://got-merchants-promo-judges.trycloudflare.com
+- Telegram: https://t.me/check4404
+
+Важно: адрес trycloudflare.com временный. Перед публичным запуском заменить его на постоянный HTTPS-адрес сервера.
 
 ## Бесплатный публичный запуск
 Рекомендуемый вариант: GitHub Pages.
